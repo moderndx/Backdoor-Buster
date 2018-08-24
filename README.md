@@ -15,16 +15,27 @@ Check your data folder if the backdoor isnt being blacklisted, it's probably bei
 
 Features:
 Auto stop connecting to servers
+
 Auto stop disconnecting
+
 Auto stop reconnecting
+
 Allows you to still use the addon content
+
 Works in singleplayer
+
 Works in multiplayer
+
 Detects malicious calls to functions
+
 If it's from a workshop addon it will notify you of which addon
+
 Config file for those who decompile it
+
 Logs for all detections into the data folder
+
 Easily configurable
+
 
 
 
