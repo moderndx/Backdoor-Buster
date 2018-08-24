@@ -14,6 +14,7 @@ Leave a comment on what you want added!
 Check your data folder if the backdoor isnt being blacklisted, it's probably being logged
 
 Features:
+
 Auto stop connecting to servers
 
 Auto stop disconnecting
